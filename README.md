@@ -66,20 +66,17 @@ My cybersecurity background also provides me with a strong perspective on **data
 
 ## 📂 Featured Projects
 
-### 🛍️ Mall Customers
+### 🛍️ Mall Customers Analysis
+Python | Pandas | NumPy | Matplotlib | Seaborn
 
-**Python | Pandas | NumPy | Matplotlib | Machine Learning**
-
-Customer analysis and segmentation project focused on identifying groups of customers based on their characteristics and behavior.
+Exploratory Data Analysis (EDA) project focused on analyzing customer demographic patterns, income levels, and spending behavior to extract business insights.
 
 **Main activities:**
-- Dataset exploration and preparation
-- Data analysis and preprocessing
-- Feature analysis
-- Customer segmentation
-- Clustering techniques
-- Data visualization
-- Interpretation of results
+- Dataset exploration, cleaning, and quality preparation
+- Descriptive statistical analysis (Age, Annual Income, Spending Score)
+- Demographic visualization and correlation analysis between variables
+- Customer behavioral pattern identification and demographic profiling
+- Interpretation of results for strategic decision-making
 
 ---
 
